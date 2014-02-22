@@ -80,7 +80,8 @@ with open('einzelpl.csv', 'r') as csvfile:
 output = []
 with open('HH2014.csv', 'r') as datafile:
 	datareader = csv.reader(datafile, delimiter=',')
-	header = ["Einzelplan", "Einzelplanbezeichnung",
+	header = ["ID",
+		"Einzelplan", "Einzelplanbezeichnung",
 		"Aufgabenblock", "Aufgabenblockbezeichnung",
 		"Aggregat", "Aggregatbezeichnung", 
 		"Kapitel", "Kapitelbezeichnung",
@@ -109,9 +110,10 @@ with open('HH2014.csv', 'r') as datafile:
 		]
 	output += [header]
 	skip = True
+	i=0
 	for row in datareader:
 		if not skip:
-			record2010 = [
+			record2010 = [i,
 				row[ 0].rstrip(), planbez[row[0]] if row[0] in planbez else "",
 				row[ 1].rstrip(), aufgabenblockbez[row[1]] if row[1] in aufgabenblockbez else "",
 				row[ 2].rstrip(), aggregatbez[row[2]] if row[2] in aggregatbez else "",
@@ -139,7 +141,7 @@ with open('HH2014.csv', 'r') as datafile:
 				row[28].rstrip().replace(",",""),
 				"2010"
 			]
-			record2011 = [
+			record2011 = [i+1,
 				row[ 0].rstrip(), planbez[row[0]] if row[0] in planbez else "",
 				row[ 1].rstrip(), aufgabenblockbez[row[1]] if row[1] in aufgabenblockbez else "",
 				row[ 2].rstrip(), aggregatbez[row[2]] if row[2] in aggregatbez else "",
@@ -169,6 +171,7 @@ with open('HH2014.csv', 'r') as datafile:
 			]
 			output += [record2010]
 			output += [record2011]
+			i+=2
 		else:
 			skip = False
 
