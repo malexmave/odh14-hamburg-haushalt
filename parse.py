@@ -80,7 +80,7 @@ with open('einzelpl.csv', 'r') as csvfile:
 output = []
 with open('HH2014.csv', 'r') as datafile:
 	datareader = csv.reader(datafile, delimiter=',')
-	header = ["ID",
+	header = ["Index",
 		"Einzelplan", "Einzelplanbezeichnung",
 		"Aufgabenblock", "Aufgabenblockbezeichnung",
 		"Aggregat", "Aggregatbezeichnung", 
