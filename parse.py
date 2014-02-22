@@ -136,7 +136,7 @@ with open('HH2014.csv', 'r') as datafile:
 				row[25].rstrip(),
 				row[26].rstrip(),
 				row[27].rstrip(),
-				row[28].rstrip(),
+				row[28].rstrip().replace(",",""),
 				"2010"
 			]
 			record2011 = [
@@ -164,7 +164,7 @@ with open('HH2014.csv', 'r') as datafile:
 				row[25].rstrip(),
 				row[26].rstrip(),
 				row[27].rstrip(),
-				row[29].rstrip(),
+				row[29].rstrip().replace(",",""),
 				"2011"
 			]
 			output += [record2010]
