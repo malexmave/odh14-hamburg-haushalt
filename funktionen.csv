@@ -1,0 +1,234 @@
+Funktionen-nummer,Klartext
+000,Allgemeine Dienste 
+010,Politische Führung und zentrale Verwaltung 
+011,Politische Führung 
+012,Innere Verwaltung 
+013,Informationswesen 
+014,Statistischer Dienst 
+015,Zivildienst 
+016,Hochbauverwaltung 
+018,"Versorgung einschl. Beihilfen für Versorgungsem- pf. soweit nicht unter 038,039,048,058,068,118,138"
+019,Sonstige allgemeine Staatsaufgaben 
+020,Auswärtige Angelegenheiten 
+021,Auslandsvertretungen (nur Bund) 
+022,Internationale Organisationen 
+023,Wirtschaftliche Zusammenarbeit und Entwicklung 
+024,Auslandsschulwesen und kulturelle Angelegenheiten im Ausland
+029,Sonstige auswärtige Angelegenheiten 
+040,Öffentliche Sicherheit und Ordnung 
+042,Polizei 
+043,Öffentliche Ordnung 
+044,Brandschutz 
+045,Bevölkerungs- und Katastrophenschutz 
+046,Wetterdienst 
+047,Schutz der Verfassung 
+048,Versorgung einschließlich Beihilfen d. VersorgEmpf im Bereich der öffentlichen Sicherheit und Ordnung
+050,Rechtsschutz 
+051,Gerichte und Staatsanwaltschaften 
+056,Justizvollzugsanstalten 
+058,Versorgung einschließl. Beihilfen für Versorgungs- empf. im Bereich des Rechtsschutzes (nur Länder)
+059,Sonstige Rechtsschutzaufgaben 
+060,Finanzverwaltung 
+061,Steuer- und Zollverwaltung 
+062,"Schulden-, Vermögens- und sonstige Finanzver- waltung"
+068,Versorgung einschl. Beihilfen für Versorgungs- empf. im Bereich der Finanzverwaltung
+100,"Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten"
+110,Allgemeinbildende und berufliche Schulen 
+111,Unterrichtsverwaltung 
+112,Öffentliche Grundschulen 
+113,Private Grundschulen 
+114,Öffentliche weiterführende allgemeinbildende Schulen (ohne Sonderschulen/Förderschulen)
+115,Private  weiterführende allgemeinbildende Schulen (ohne Sonderschulen/Förderschulen)
+118,Versorgung einschl. Beihilfen für Versorgungs- empf. im Bereich der Schulen (nur Länder)
+120,Allgemeinbildende und berufliche Schulen 
+124,Öffentliche Sonderschulen/Förderschulen des allgemeinbildenden Bereichs
+125,Private Sonderschulen/Förderschulen des allgemeinbildenden Bereichs
+127,Öffentliche berufliche Schulen 
+128,Private berufliche Schulen 
+129,Sonstige schulische Aufgaben 
+130,Hochschulen 
+132,Hochschulkliniken 
+133,Öffentliche Hochschulen und Berufsakademien 
+134,Private Hochschulen und Berufsakademien 
+137,Deutsche Forschungsgemeinschaft 
+138,Versorgung einschl. Beihilfen für Versorgungs- empf. im Bereich der Hochschulen (nur Länder)
+139,Sonstige Hochschulaufgaben 
+140,"Förderung für Schülerinnen u. Schüler, Studieren- de, Weiterbildungsteilnehmende und dgl."
+141,Förderung für Schülerinnen und Schüler 
+142,Förderung für Studierende und wissenschaftlichen Nachwuchs
+144,Förderung für Weiterbildungsteilnehmende 
+145,Schülerbeförderung 
+150,Sonstiges Bildungswesen 
+152,Volkshochschulen 
+153,Sonstige Weiterbildung (ohne Förderung für Teil- nehmende)
+154,Ausbildung der Lehrkräfte 
+155,Fort- und Weiterbildung der Lehrkräfte 
+160,"Wissenschaft, Forschung, Entwicklung außerhalb der Hochschulen (ohne Wehrforschung, wehrtechn. Entw)"
+162,"Wissenschaftliche Bibliotheken, Archive, Fachinformationszentren"
+163,Wissenschaftliche Museen 
+164,Gemeinsame Forschungsförderung von Bund und Ländern (ohne Deutsche Forschungsgemeinschaft)
+165,Forschung und experimentelle Entwicklung 
+167,Zuschüsse an int. wissenschaftliche Organisationen und zwischenstaatliche Forschungseinrichtungen
+180,Kultur und Religion 
+181,Theater 
+182,Musikpflege 
+183,"Museen, Sammlungen, Ausstellungen "
+184,Zoologische und botanische Gärten 
+185,Musikschulen 
+186,Nichtwissenschaftliche Bibliotheken 
+187,Sonstige Kulturpflege 
+188,Verwaltung für kulturelle Angelegenheiten 
+195,Denkmalschutz und -pflege 
+199,Kirchliche Angelegenheiten 
+200,"Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik"
+210,Verwaltung und soziale Angelegenheiten 
+211,Verwaltungskostenerstattung SGB II (nur Bund) 
+219,Sonstige Verwaltung für soziale Angelegenheiten 
+220,Sozialversicherung einschließlich Arbeitslosenversicherung
+221,Allgemeine Rentenversicherung (nur Bundesträger)
+222,Knappschaftliche Rentenversicherung (nur Bundesträger)
+223,Unfallversicherung 
+224,Krankenversicherung 
+225,Arbeitslosenversicherung (nur Bund) 
+226,Alterssicherung der Landwirte (nur Bund) 
+227,Pflegeversicherung 
+229,Sonstige Sozialversicherungen 
+230,"Familienhilfe, Wohlfahrtspflege u.ä. (ohne Leistungen anch dem SGB VIII)"
+231,"Kindergeld, Kinderzuschlag "
+232,"Elterngeld, Erziehungsgeld und Mutterschutz "
+233,Wohngeld 
+235,Soziale Einrichtungen 
+236,Förderung der Wohlfahrtspflege 
+237,Leistungen nach dem Unterhaltsvorschußgesetz 
+240,Soziale Leistungen für Folgen von Krieg und politischen Ereignissen
+241,Kriegsopferversorgung und -fürsorge und gleichartige Leistungen
+243,Lastenausgleich 
+244,Wiedergutmachung 
+246,Vertriebene und Spätaussiedlerinnen und Spätaussiedler
+249,Sonstige Leistungen für Folgen von Krieg und politischen Ereignissen
+250,Arbeitsmarktpolitik 
+251,Arbeitslosengeld nach dem SGB II 
+252,Leistungen für Unterkunft und Heizung nach dem SGB II
+253,Aktive Arbeitsmarktpolitik 
+259,Sonstige Leistungen der Grundsicherung für Ar- beitssuchende nach dem SGB II
+260,Kinder- und Jugendhilfe nach dem SGB VIII (ohne Kindertagesbetreuung)
+261,Jugendarbeit und Jugendverbandsarbeit 
+262,Jugendsozialarbeit 
+263,"Erzieherischer Kinder- und Jugendschutz, Förderung der Erziehung in der Familie"
+265,Hilfen zur Erziehung und Eingliederungshilfen 
+266,Weitere Aufgaben der Jugendhilfe 
+270,Kindertagesbetreuung nach dem SGB VIII 
+280,Soziale Leistungen nach dem SGB XII und dem Asylbewerberleistungsgesetz
+281,Hilfe zum lebensunterhalt nach dem SGB XII 
+282,Grundsicherung im Alter und bei Erwerbsminderung nach dem SGB XII
+283,Eingliederunsghilfen nach dem SGB XII 
+284,Hilfe zur Pflege nach dem SGB XII 
+285,Weitere Leistungen nach dem SGB XII 
+286,Leistungen anch dem SGB XII - nur Flächenländer 
+287,Leistungen nach dem Asylbewerberleistungsgesetz 
+290,Sonstige soziale Angelegenheiten 
+300,"Gesundheit, Umwelt, Sport und Erholung "
+310,Gesundheitswesen 
+311,Gesundheitsverwaltung 
+312,Krankenhäuser und Heilstätten 
+313,Arbeitsschutz 
+314,Gesundheitsschutz 
+320,Sport und Erholung 
+321,Park- und Gartenanlagen 
+322,Sport 
+330,Umwelt- und Naturschutz 
+331,Umwelt- und Naturschutzverwaltung 
+332,Maßnahmen des Umwelt- und Naturschutzes 
+340,Reaktorsicherheit und Strahlenschutz 
+341,Verwaltung für Reaktorsicherheit und Strahlenschutz
+342,Maßnahmen der Reaktorsicherheit und des Strahlenschutzes
+400,"Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste"
+410,"Wohnungswesen, Wohnungsbauprämie "
+411,Förderung des Wohnungsbaues 
+412,Wohnungsbauprämie/Vermögensbildung (nur Bund) 
+419,Sonstiges Wohnungswesen 
+420,"Geoinformation, Raumordnung und  Landesplanung, Städtebauförderung"
+421,Geoinformation 
+422,Raumordnung und Landesplanung 
+423,Städtebauförderung 
+430,"Kommunale Gemeinschaftsdienste (ohne Straßen- beleuchtung, Abwasserentsorgung u Abfallwirtschaft"
+500,"Ernährung, Landwirtschaft und Forsten "
+510,"Verwaltung für Ernährung, Landwirtschaft u Forsten (ohne Betriebsverwaltung)"
+511,Verwaltung für Ernährung und Landwirtschaft 
+512,"Forst-, Jagd- und Fischereiverwaltung "
+520,Landwirtschaft und Ernährung 
+521,Agrarstruktur und ländlicher Raum (Gemeinschaftsaufgabe)
+522,Einkommenstabilisierende Maßnahmen 
+523,"Landwirtschaftliche Produktion, Tiergesundheit und Ernährung"
+530,"Forstwirtschaft und Jagd, Fischerei "
+531,Forstwirtschaft und Jagd 
+532,Fischerei 
+600,"Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen"
+610,"Verwaltung für Energie- u. Wasserwirtschaft, Gewerbe und Dienstleistungen"
+620,"Wasserwirtschaft, Hochwasser und Küstenschutz "
+623,Wasserwirtschaft und Kulturbau 
+624,"Talsperren, Hochwasserrückhaltebecken "
+625,Küstenschutz 
+630,"Bergbau, verarbeitendes Gewerbe und Baugewerbe "
+631,Kohlenbergbau 
+632,Sonstiger Bergbau 
+634,Verarbeitende Industrie 
+635,Handwerk und Kleingewerbe 
+638,Baugewerbe 
+640,"Energie- und Wasserversorgung, Entsorgung "
+641,Kernenergie 
+642,Erneuerbare Energieformen 
+643,Elektrizitätsversorgung 
+644,Wasserversorgung 
+645,Abwasserentsorgung 
+646,Abfallwirtschaft 
+647,Straßenreinigung 
+649,Sonstige Energie- und Wasserversorgung 
+650,Handel und Tourismus 
+651,Handel 
+652,Tourismus 
+660,Geld- und Versicherungswesen 
+661,Banken und Kreditinstitute 
+669,Sonstiges Geld- und Versicherunsgwesen 
+680,Sonstiges im  Bereich Gewerbe und Dienstleistungen 
+690,Regionale Fördermaßnahmen 
+691,Betriebliche Investitionen 
+692,Verbesserung der Infrastruktur 
+693,Verbesserung der regionalen Wirtschaftsstruktur 
+700,Verkehrs- und Nachrichtenwesen 
+710,Verwaltung des Verkehrs- und Nachrichtenwesens 
+711,Verwaltung für Straßen- und Brückenbau 
+712,Verwaltung für Wasserstraßen und Häfen 
+719,Sonstige Verkehrs- und Nachrichtenverwaltung 
+720,Straßen 
+721,Bundesautobahnen 
+722,Bundesstraßen 
+723,Landesstraßen 
+724,Kreisstraßen 
+725,Gemeindestraßen 
+726,Straßenbeleuchtung 
+729,Sonstiger Straßenverkehr 
+730,"Wasserstraßen und Häfen, Förderung der Schifffahrt"
+731,Wasserstraßen und Häfen 
+732,Förderung der Schifffahrt 
+740,Eisenbahnen und öffentlicher Personennahverkehr 
+741,Öffentlicher Personennahverkehr 
+742,Eisenbahnen 
+750,Luftfahrt 
+770,Nachrichtenwesen 
+771,Post- und Telekommunikation 
+772,Rundfunk und Fernsehen 
+790,Sonstiges Verkehrswesen 
+800,Finanzwirtschaft 
+810,"Grund- und Kapitalvermögen, Sondervermögen "
+811,Grundvermögen 
+812,Kapitalvermögen 
+813,Sondervermögen 
+820,Steuern und Finanzzuweisungen 
+830,Schulden 
+840,"Beihilfen, Unterstützungen u.ä. "
+850,Rücklagen 
+860,Sonstiges 
+870,Abwicklung der Vorjahre 
+880,Globalposten 
+890,Haushaltstechnische Verrechnungen 
