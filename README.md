@@ -22,6 +22,7 @@ In diesem Repository sind einige Dateien verstreut:
     ebenfalls aus der Excel-Datei extrahiert.
     
     haushalt-final.csv - Die Ausgabedatei des parser-skriptes
+    outfile.csv - Identisch zu haushalt-final.csv (aus Gründen der Rückwärtskompatibilität weiterhin enthalten)
     
     parse.py - Parser-Skript, welches die Daten kombiniert und lesbar macht.
 
