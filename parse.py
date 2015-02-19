@@ -139,7 +139,7 @@ with open('HH2014.csv', 'r') as datafile:
 				row[26].rstrip(),
 				row[27].rstrip(),
 				row[28].rstrip().replace(",",""),
-				"2010"
+				"2010-01-01"
 			]
 			record2011 = [i+1,
 				row[ 0].rstrip(), planbez[row[0]] if row[0] in planbez else "",
@@ -167,7 +167,7 @@ with open('HH2014.csv', 'r') as datafile:
 				row[26].rstrip(),
 				row[27].rstrip(),
 				row[29].rstrip().replace(",",""),
-				"2011"
+				"2011-01-01"
 			]
 			output += [record2010]
 			output += [record2011]
